@@ -31,6 +31,9 @@ nav {
 
     align-items: center;
     justify-content: space-between;
+
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
 }
 
 nav>.icon-navbar {
@@ -41,6 +44,6 @@ nav>.icon-navbar {
 nav>.itens {
     display: flex;
     width: 100%;
-    
+
     justify-content: space-around;
 }
