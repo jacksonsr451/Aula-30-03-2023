@@ -30,6 +30,7 @@ nav {
     background-color: var(--primary-color);
 
     align-items: center;
+    justify-content: space-between;
 }
 
 nav>.icon-navbar {
@@ -39,4 +40,6 @@ nav>.icon-navbar {
 
 nav>.itens {
     display: flex;
+
+    justify-content: space-around;
 }
