@@ -82,6 +82,7 @@ main>.banner-home {
 
 main>.content {
     display: flex;
+    width: 64rem;
 
     flex-direction: row;
 }
