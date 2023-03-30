@@ -51,8 +51,11 @@ nav>.itens {
 nav>.itens>.iten {
     display: flex;
     align-items: center;
-    
+
     height: 6.5rem;
+
+    font-size: 40px;
+    font-weight: bold;
 }
 
 nav>.itens>.iten>img {
