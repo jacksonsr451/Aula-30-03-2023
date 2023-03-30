@@ -78,6 +78,9 @@ main {
 main>.banner-home {
     width: 67.4375rem;
     height: 9.9375rem;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 main>.content {
@@ -85,6 +88,8 @@ main>.content {
     width: 64rem;
 
     flex-direction: row;
+
+    
 }
 
 main>.content>.text>h1 {
