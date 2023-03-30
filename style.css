@@ -21,3 +21,11 @@ body{
     background-color: var(--secondary-color);
     color: var(--primary-color-text);
 }
+
+nav {
+    display: flex;
+    width: 100vw;
+    height: 194px;
+
+    background-color: var(--primary-color);
+}
