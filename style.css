@@ -25,7 +25,15 @@ body{
 nav {
     display: flex;
     width: 100vw;
-    height: 194px;
+    height: 12.125rem;
 
     background-color: var(--primary-color);
+}
+
+nav>.icon-navbar {
+    width: 24rem;
+}
+
+nav>.itens {
+    display: flex;
 }
