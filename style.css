@@ -74,9 +74,9 @@ main {
     justify-content: center;
 }
 
-.banner-home {
-    width: 67.4375;
-    height: 9.9375;
+main>.banner-home {
+    width: 67.4375rem;
+    height: 9.9375rem;
 }
 
 main>.content {
