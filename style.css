@@ -74,7 +74,7 @@ main {
     justify-content: center;
 }
 
-main>.banner-home {
+.banner-home {
     width: 67.4375;
     height: 9.9375;
 }
