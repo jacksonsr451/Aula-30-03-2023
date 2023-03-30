@@ -50,7 +50,8 @@ nav>.itens {
 
 nav>.itens>.iten {
     display: flex;
-
+    align-items: center;
+    
     height: 6.5rem;
 }
 
