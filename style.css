@@ -85,3 +85,16 @@ main>.content {
 
     flex-direction: row;
 }
+
+footer {
+    display: flex;
+    height: 9rem;
+
+    align-items: center;
+    justify-content: center;
+
+    font-size: 40px;
+    font-weight: bold;
+
+    background-color: var(--primary-color);
+}
