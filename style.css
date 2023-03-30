@@ -87,6 +87,14 @@ main>.content {
     flex-direction: row;
 }
 
+main>.content>.text>h1 {
+    font-size: 48px;
+}
+
+main>.content>.text>p {
+    font-size: 40px;
+}
+
 footer {
     display: flex;
     height: 9rem;
