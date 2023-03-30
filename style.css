@@ -28,6 +28,8 @@ nav {
     height: 12.125rem;
 
     background-color: var(--primary-color);
+
+    justify-content: center;
 }
 
 nav>.icon-navbar {
