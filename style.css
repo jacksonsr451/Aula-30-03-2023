@@ -29,7 +29,7 @@ nav {
 
     background-color: var(--primary-color);
 
-    justify-content: center;
+    align-items: center;
 }
 
 nav>.icon-navbar {
