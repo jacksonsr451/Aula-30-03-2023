@@ -62,3 +62,7 @@ nav>.itens>.iten>img {
     width: 6.375;
     height: 6.5rem;
 }
+
+nav>.itens>.iten:hover {
+    cursor: pointer;
+}
