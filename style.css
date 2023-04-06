@@ -87,9 +87,10 @@ main>.content {
     display: flex;
     width: 64rem;
 
-    flex-direction: row;
-
+    margin-top: 16px;
+    margin-bottom: 16px;
     
+    flex-direction: row;
 }
 
 main>.content>.text>h1 {
